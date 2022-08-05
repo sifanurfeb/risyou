@@ -1,2 +1,2 @@
-# risyou.github.io
+# risyou
 website risyou
